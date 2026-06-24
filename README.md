@@ -1,7 +1,7 @@
 
   # WebSite ThinkDigital Mockup original
 
-  This is a code bundle for WebSite ThinkDigital Mockup original. The original project is available at https://www.figma.com/design/uI8oMLMswlKa6JVdycf30O/WebSite-ThinkDigital-Mockup-original.
+  This is a code bundle for WebSite ThinkDigital Mockup original..
 
   ## Running the code
 
