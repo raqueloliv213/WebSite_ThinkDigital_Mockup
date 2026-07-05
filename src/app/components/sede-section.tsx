@@ -37,7 +37,7 @@ export function SedeSection() {
         initial={{ opacity: 0, y: 24 }} whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true, margin: "-60px" }} transition={{ duration: 0.6, ease: "easeOut" }}
       >
-        Uma casa feita à medida da nossa equipa
+          Uma casa feita à medida para a nossa equipa
       </motion.h2>
       <motion.p
         className="font-['Roboto',sans-serif] text-[15px] sm:text-[17px] text-[#6b7a99] leading-relaxed max-w-[700px] mb-8"
